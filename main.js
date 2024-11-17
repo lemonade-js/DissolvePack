@@ -83,7 +83,7 @@ Object.entries(states).forEach(([keyname, state]) => {
             loop: false
         });
     } else {
-        for (let i = 0; i < 39; i++) {
+        for (let i = 0; i < 40; i++) {
             const currentspeed = i + 6;
             const reversestate = state.slice().reverse();
             

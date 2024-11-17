@@ -40,7 +40,7 @@ Syntax: `<block_type>!<animation_type><play_type><speed_in_fps/static_state>`
 - **`block_type`**: Type of block to create (e.g., `block`, `mine`, `hold`)
 - **`animation_type`**: Animation to use (e.g., `swipe`, `dither`, `collapse`)
 - **`play_type`**: How the animation plays (`in`, `out`, or `static`)
-- **`speed_in_fps/static_state`**: Speed of the animation OR animation frame
+- **`speed_in_fps/static_state`**: Speed of the animation (4 - 45) OR animation frame
 
 ### Examples
 - `block!noisein12`: Applies noise in animation to a fake block at 12 FPS
@@ -54,6 +54,14 @@ Syntax: `<block_type>!<animation_type><play_type><speed_in_fps/static_state>`
 ![Dissolve Animation Example](link_to_image_or_gif)
 
 ### Wave Animation (Mine)
-**`mine!wavein9`**
+**`mine!wavein21`**
 
 ![Wave Animation Example](link_to_image_or_gif)
+
+### Dither Animation (Hold)
+**`hold!ditherin12`**
+
+![Dither Animation Example](link_to_image_or_gif)
+
+## Feedback and Suggestions
+Have any feedback or suggestions? Just ping/mention me (@gooberlemonade) on [Beatblock's discord](https://discord.gg/334Jscz9xZ)!
