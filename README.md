@@ -51,17 +51,17 @@ Syntax: `<block_type>!<animation_type><play_type><speed_in_fps/static_state>`
 ### Dissolve Animation (Block)
 **`block!dissolveout12`**
 
-![Dissolve Animation Example](https://github.com/lemonade-js/DissolvePack/blob/master/examples/dissolve.gif?raw=true)
+![Dissolve Animation Example](https://github.com/lemonade-js/DissolvePack/blob/main/examples/dissolve.gif?raw=true)
 
 ### Wave Animation (Mine)
 **`mine!wavein21`**
 
-![Wave Animation Example](https://github.com/lemonade-js/DissolvePack/blob/master/examples/wave.gif?raw=true)
+![Wave Animation Example](https://github.com/lemonade-js/DissolvePack/blob/main/examples/wave.gif?raw=true)
 
 ### Dither Animation (Hold)
 **`hold!ditherin12`**
 
-![Dither Animation Example](https://github.com/lemonade-js/DissolvePack/blob/master/examples/dither.gif?raw=true)
+![Dither Animation Example](https://github.com/lemonade-js/DissolvePack/blob/main/examples/dither.gif?raw=true)
 
 ## Feedback and Suggestions
 Have any feedback or suggestions? Just ping/mention me (@gooberlemonade) on [Beatblock's discord](https://discord.gg/334Jscz9xZ)!
